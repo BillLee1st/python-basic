@@ -1,0 +1,2 @@
+#vector 2-D slicing operations, -1 mean do not specify how many rows in advance
+a = np.arange(20).reshape(-1, 10)
